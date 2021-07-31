@@ -644,7 +644,7 @@ table.center {
         content: '';
         width: 11em;
         height: 11em;
-        background-image: url('logo.png');
+        background-image: url('https://avatars.githubusercontent.com/u/84240800?s=150');
         background-repeat: no-repeat;
         background-position: center center;
     }
