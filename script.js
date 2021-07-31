@@ -1,4 +1,5 @@
 document.querySelector('body').classList.remove("client-nojs");
+document.querySelector('body').classList.add("client-js");
 
 const nav_navigation = document.querySelector('#site-navigation');
 
